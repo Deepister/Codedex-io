@@ -3,8 +3,8 @@
 
 # Create a hypotenuse.py program that asks the user for two numbers, a and b, and then calculates the hypotenuse c.
 
-a = int(input("Enter number sor side a: "))
-b = int(input("Enter number sor side b: "))
+a = int(input("Enter number for side a: "))
+b = int(input("Enter number for side b: "))
 
 # Also, the square root of something is the same thing as power to the 0.5. So you can actually figure out the square root of something using the exponent operator **: 
 
